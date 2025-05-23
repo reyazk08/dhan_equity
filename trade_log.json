@@ -1,0 +1,26 @@
+[
+  {
+    "symbol": "ADANIPOWER",
+    "side": "long",
+    "entry_price": 555,
+    "entry_time": "2025-05-23T13:20:28.057548",
+    "qty": 1,
+    "initial_sl": 546.67,
+    "target": 571.65,
+    "trailing_sl": null,
+    "status": "open",
+    "event": "entry"
+  },
+  {
+    "symbol": "KALYANKJIL",
+    "side": "short",
+    "entry_price": 554.55,
+    "entry_time": "2025-05-23T13:32:14.653621",
+    "qty": 1,
+    "initial_sl": 562.87,
+    "target": 537.91,
+    "trailing_sl": null,
+    "status": "open",
+    "event": "entry"
+  }
+]
